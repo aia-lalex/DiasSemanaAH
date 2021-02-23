@@ -7,6 +7,13 @@ public class DiasSemana {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		decisionDia();
+	}
+
+	/**
+	 * 
+	 */
+	public static void decisionDia() {
 		Scanner reader = new Scanner(System.in);// Para pedir números por teclado
 		int N = 0;
 		String diaR="";
