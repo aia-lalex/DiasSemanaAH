@@ -11,7 +11,7 @@ public class DiasSemana {
 	}
 
 	/**
-	 * 
+	 * Metodo extraido con refactorización
 	 */
 	public static void decisionDia() {
 		Scanner reader = new Scanner(System.in);// Para pedir números por teclado
